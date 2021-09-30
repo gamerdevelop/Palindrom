@@ -50,8 +50,7 @@ namespace palindrom
                 }
                 if (girdi == terscevir)
                 {
-                    Console.Write("==> ");
-                    Console.WriteLine(girdi + "  sayısı palindromdur!");
+                    Console.WriteLine("==> " + girdi + "  sayısı palindromdur!");
                     Console.WriteLine("D=Devam ESC=Çıkış");
                     tus = Console.ReadKey(true);
                     if (tus.Key == ConsoleKey.Escape)
@@ -83,8 +82,7 @@ namespace palindrom
                 }
                 else
                 {
-                    Console.Write("==> ");
-                    Console.WriteLine(girdi + "  sayısı palindrom değildir!");
+                    Console.WriteLine("==> " + girdi + "  sayısı palindrom değildir!");
                     Console.WriteLine("D=Devam ESC=Çıkış");
                     tus = Console.ReadKey(true);
                     if (tus.Key == ConsoleKey.Escape)
@@ -121,9 +119,8 @@ namespace palindrom
                     terscevir += girdi[i];
                 }
                 if (girdi == terscevir)
-                {
-                    Console.Write("==> ");
-                    Console.WriteLine(girdi + "  kelimesi palindromdur!");
+                { 
+                    Console.WriteLine("==> " + girdi + "  kelimesi palindromdur!");
                     Console.WriteLine("D=Devam ESC=Çıkış");
                     tus = Console.ReadKey(true);
                     if (tus.Key == ConsoleKey.Escape)
@@ -154,8 +151,7 @@ namespace palindrom
                 }
                 else
                 {
-                    Console.Write("==> ");
-                    Console.WriteLine(girdi + "  kelimesi palindrom değildir!");
+                    Console.WriteLine("==> " + girdi + "  kelimesi palindrom değildir!");
                     Console.WriteLine("D=Devam ESC=Çıkış");
                     tus = Console.ReadKey(true);
                     if (tus.Key == ConsoleKey.Escape)
