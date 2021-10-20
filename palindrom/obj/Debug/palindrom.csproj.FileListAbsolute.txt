@@ -1,0 +1,8 @@
+C:\Users\DrDea\source\repos\palindrom\palindrom\bin\Debug\palindrom.exe.config
+C:\Users\DrDea\source\repos\palindrom\palindrom\bin\Debug\palindrom.exe
+C:\Users\DrDea\source\repos\palindrom\palindrom\bin\Debug\palindrom.pdb
+C:\Users\DrDea\source\repos\palindrom\palindrom\obj\Debug\palindrom.csproj.AssemblyReference.cache
+C:\Users\DrDea\source\repos\palindrom\palindrom\obj\Debug\palindrom.csproj.SuggestedBindingRedirects.cache
+C:\Users\DrDea\source\repos\palindrom\palindrom\obj\Debug\palindrom.csproj.CoreCompileInputs.cache
+C:\Users\DrDea\source\repos\palindrom\palindrom\obj\Debug\palindrom.exe
+C:\Users\DrDea\source\repos\palindrom\palindrom\obj\Debug\palindrom.pdb
